@@ -11,7 +11,7 @@ export default function About() {
         <Reveal>
           <div className="relative mx-auto aspect-square w-full max-w-sm overflow-hidden rounded-3xl border border-line bg-gradient-to-br from-[#12203A] via-panel to-bg">
             <img
-              src="/images/profile.jpg"
+              src="/images/profile.png"
               alt="Mohamed Ashraf"
               className="h-full w-full object-cover object-center"
               loading="lazy"
